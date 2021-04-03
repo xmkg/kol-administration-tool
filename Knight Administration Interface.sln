@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAI", "SMI\KAI.csproj", "{FCCE02BA-73F7-4C53-8EF3-C707B587F393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item Search Engine", "ItemSearchEngine\Item Search Engine.csproj", "{EDD3CEC6-F47C-4C63-962A-6D28F4803E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{8500864D-39F8-4083-856B-0B345B825C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCE02BA-73F7-4C53-8EF3-C707B587F393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCE02BA-73F7-4C53-8EF3-C707B587F393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCE02BA-73F7-4C53-8EF3-C707B587F393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCE02BA-73F7-4C53-8EF3-C707B587F393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD3CEC6-F47C-4C63-962A-6D28F4803E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD3CEC6-F47C-4C63-962A-6D28F4803E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD3CEC6-F47C-4C63-962A-6D28F4803E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD3CEC6-F47C-4C63-962A-6D28F4803E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8500864D-39F8-4083-856B-0B345B825C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8500864D-39F8-4083-856B-0B345B825C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8500864D-39F8-4083-856B-0B345B825C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8500864D-39F8-4083-856B-0B345B825C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
